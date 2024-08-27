@@ -22,7 +22,7 @@ let datos = [
     ["1037817979","Luis Alberto Jaime Hernandez","Ingeniria  de Sistemas","II","4.0","4.1","3.9","4.5"],
     ["1019066342","Zabala Pereira Nercy Aleidys","Ingeniria Mecanica","V","3.0","3.3","4.2","4.5"],
     ["1014249436","Fabian Raul Duarte Serrano","Medicina","IV","3.6","3.6","3.8","3.9"],
-    ["1022380843","Jhonatan Mauricio Rodriguez  C.","Ingeniria de Petreoleos","I","3.4","4.5","4.4","3.0"],
+    ["1022380843","Jhonatan Mauricio Rodriguez.","Ingeniria de Petreoleos","I","3.4","4.5","4.4","3.0"],
     ["1012353083","German Dario Gonzalez  Riaño","Ingeniria de Petreoleos","III","3.4","4.5","4.4","3.0"],
     ["96040605441","Michael Duvan Beltran Salcedo","Medicina","IV","3.0","3.3","4.2","4.5"],
     ["1013641467","Romero Piña Dylan David","Fisioterapia","II","3.6","3.6","3.8","3.9"],
